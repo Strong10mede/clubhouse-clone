@@ -26,7 +26,8 @@ export default function Welcome() {
           to="/invite"
           className="primaryBtn d-flex align-items-center mb-3"
         >
-          Get your username <img src="" alt="" />
+          Get your username
+          {/* <img src="" alt="" /> */}
         </Link>
         <Link>Have an invite text? Sign in</Link>
       </div>
