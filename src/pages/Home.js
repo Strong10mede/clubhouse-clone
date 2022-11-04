@@ -1,12 +1,12 @@
 import React, { useState } from "react";
-import DailyInfoCard from "../components/DailyInfoCard";
-import Header from "../components/Header";
-import RoomInfoCard from "../components/RoomInfoCard";
+import DailyInfoCard from "../Components/DailyInfoCard";
+import Header from "../Components/Header";
+import RoomInfoCard from "../Components/RoomInfoCard";
 import style from "../style/home.module.css";
 import { AiOutlinePlus } from "react-icons/ai";
 import { BsGrid3X3Gap } from "react-icons/bs";
 import data from "../data/roomCard.json";
-import BottomSheet from "../components/BottomSheet";
+import BottomSheet from "../Components/BottomSheet";
 import newRoomData from "../data/newRoom.json";
 
 export default function Home() {
