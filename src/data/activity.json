@@ -1,0 +1,73 @@
+activity.json
+Who has access
+
+System properties
+Type
+Unknown File
+Size
+2 KB
+Storage used
+2 KBOwned by Clever Programmer
+Location
+data
+Owner
+Rafeh Qazi
+Modified
+Apr 19, 2021 by
+Opened
+10:47 AM by me
+Created
+May 10, 2021
+No description
+Viewers can download
+[
+  {
+    "id": 1,
+    "image": ["user-img.jpg", "user-img.jpg"],
+    "title": "Grant Cardone",
+    "description": "scheduled \"10X Kids w/ Sabrina & Scarlett Cardone\" for Monday April 12 at 1:00am",
+    "time": "1d ago"
+  },
+  {
+    "id": 2,
+    "image": ["user-img.jpg", "user-img.jpg"],
+    "title": "Grant Cardone",
+    "description": "scheduled \"10X Kids w/ Sabrina & Scarlett Cardone\" for Monday April 12 at 1:00am",
+    "time": "1d ago"
+  },
+  {
+    "id": 3,
+    "image": ["user-img.jpg", "user-img.jpg"],
+    "title": "Grant Cardone",
+    "description": "scheduled \"10X Kids w/ Sabrina & Scarlett Cardone\" for Monday April 12 at 1:00am",
+    "time": "1d ago"
+  },
+  {
+    "id": 4,
+    "image": ["user-img.jpg", "user-img.jpg"],
+    "title": "Grant Cardone",
+    "description": "scheduled \"10X Kids w/ Sabrina & Scarlett Cardone\" for Monday April 12 at 1:00am",
+    "time": "1d ago"
+  },
+  {
+    "id": 5,
+    "image": ["user-img.jpg", "user-img.jpg"],
+    "title": "Grant Cardone",
+    "description": "scheduled \"10X Kids w/ Sabrina & Scarlett Cardone\" for Monday April 12 at 1:00am",
+    "time": "1d ago"
+  },
+  {
+    "id": 6,
+    "image": ["user-img.jpg", "user-img.jpg"],
+    "title": "Grant Cardone",
+    "description": "scheduled \"10X Kids w/ Sabrina & Scarlett Cardone\" for Monday April 12 at 1:00am",
+    "time": "1d ago"
+  },
+  {
+    "id": 7,
+    "image": ["user-img.jpg", "user-img.jpg"],
+    "title": "Grant Cardone",
+    "description": "scheduled \"10X Kids w/ Sabrina & Scarlett Cardone\" for Monday April 12 at 1:00am",
+    "time": "1d ago"
+  }
+]
