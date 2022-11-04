@@ -3,7 +3,7 @@ import style from "../style/explore.module.css";
 import { Input } from "antd";
 import { DownOutlined, FireOutlined } from "@ant-design/icons";
 import data from "../data/Explore.json";
-import SubHeader from "../components/SubHeader";
+import SubHeader from "../Components/SubHeader";
 
 export default function Explore() {
   const { people, conversation } = data;
