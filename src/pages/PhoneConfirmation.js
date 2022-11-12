@@ -13,7 +13,7 @@ export default function PhoneConfirmation() {
       <h1>Enter your phone</h1>
       <PhoneInput
         international
-        defaultCountry="US"
+        defaultCountry="IN"
         value={value}
         onChange={setValue}
       />
